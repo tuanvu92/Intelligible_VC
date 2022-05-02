@@ -6,13 +6,15 @@ In most of practical scenarios, the announcement system must deliver speech mess
 
 
 ##1. Installation
-Install using pip:
-> pip install https://github.com/tuanvu92/Intelligible_VC.git
-
 Clone this repo: 
 > git clone https://github.com/tuanvu92/Intelligible_VC.git
 > cd IntellgibleVC
 > pip install -r requirement.txt
+
+
+To install **intelligible_vc** package using pip:
+> pip install https://github.com/tuanvu92/Intelligible_VC.git
+
 
 ## 2. Data
 Please get access to AIS-Lab internal server //refresh/share/database and download ATR data. 
