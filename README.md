@@ -1,8 +1,18 @@
 # Intelligible VC: Increase speech intelligibility by mimicking voice of professional announcer using voice conversion
 Author: Ho Tuan Vu - Japan Advanced Institute of Science and Technology 
+Paper: https://arxiv.org/abs/2206.13021 (accepted in Interspeech 2022)
 
 ## Abstract
 In most of practical scenarios, the announcement system must deliver speech messages in a noisy environment, in which the background noise cannot be cancelled out. The local noise reduces speech intelligibility and increases listening effort of the listener, hence hamper the effectiveness of announcement system. There has been reported that voices of professional announcers are clearer and more comprehensive than that of non-expert speakers in noisy environment. This finding suggests that the speech intelligibility might be related to the speaking style of professional announcer, which can be adapted using voice conversion method. Motivated by this idea, this paper proposes a speech intelligibility enhancement in noisy environment by applying voice conversion method on non-professional voice. We discovered that the professional announcers and non-professional speakers are clusterized into different clusters on the speaker embedding plane. This implies that the speech intelligibility can be controlled as an independent feature of speaker individuality. To examine the advantage of converted voice in noisy environment, we experimented using test words masked in pink noise at different SNR levels. The results of objective and subjective evaluations confirm that the speech intelligibility of converted voice is higher than that of original voice in low SNR conditions.
+
+<p align="center">
+<img src="assets/listening_test_result.png" alt="J" width="500" />
+</p>
+
+<p align="center">
+<img src="assets/estoi.png" alt="J" width="500" />
+</p>
+
 
 <p align="center">
 <img src="assets/speaker_emb.png" alt="J" width="500" />
