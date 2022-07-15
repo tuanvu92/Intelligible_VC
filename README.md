@@ -39,9 +39,7 @@ Change of spectrogram when interpolating second principal component of speaker e
 
 Change of magnitude spectrum when interpolating second principal component of speaker embedding
 
-
-
-##1. Installation
+## 1. Installation
 Clone this repo: 
 > git clone https://github.com/tuanvu92/Intelligible_VC.git
 > cd IntellgibleVC
