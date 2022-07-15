@@ -7,17 +7,8 @@ In most of practical scenarios, the announcement system must deliver speech mess
 
 ## Experiment results
 <p align="center">
-<img src="assets/listening_test_result.png" alt="J" width="500" />
+<img src="assets/experiment_result.png" alt="J" width="800" />
 </p>
-
-<p align="center">
-<img src="assets/vowel_space.png" alt="J" width="500" />
-</p>
-
-<p align="center">
-<img src="assets/estoi.png" alt="J" width="500" />
-</p>
-
 
 <p align="center">
 <img src="assets/speaker_emb.png" alt="J" width="500" />
